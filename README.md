@@ -12,18 +12,19 @@
 This is the place where I opensource stuff and break things 🤣
 
 - 🔭 &nbsp;I’m currently working at Aureole Information Technology as an intern 👨‍💻
-- 🌱 &nbsp;I’m currently learning 
-    <a href="https://angular.io" target="_blank"> <img align="center" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> 
-    <a href="https://reactnative.dev" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="angular" width="40" height="40"/></a> 
-    <a href="https://nestjs.com" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="graphql" width="40" height="40"/></a>
-    <a href="https://graphql.org" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+- 🌱 &nbsp;I’m currently learning
+  <a href="https://angular.io" target="_blank"> <img align="center" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
+  <a href="https://reactnative.dev" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="angular" width="40" height="40"/></a>
+  <a href="https://nestjs.com" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="graphql" width="40" height="40"/></a>
+  <a href="https://graphql.org" target="_blank"> <img align="center" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 - 💬 &nbsp;Interested in Web Development/Machine Learning/Data Science
 - 📫 &nbsp;How to reach me: <a href="https://minhtam27022001@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gautamkrishnar" height="30" width="40"/></a>
 <!-- - 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio) -->
 - ⚡ &nbsp;Fun fact: I ❤️ 🏀 (You can meet me on Sat at Bach Khoa basketball court)
 
 🔗 &nbsp;**Connect with me**
+
 <p align="left">
 <a href="https://www.facebook.com/anhtam.272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gautamkrishnar" height="30" width="40"/></a>
 <a href="https://www.instagram.com/minhtam2702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40"/></a>
@@ -56,3 +57,7 @@ This is the place where I opensource stuff and break things 🤣
         <a href="https://www.w3schools.com/js/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="bootstrap" width="40" height="40"/></a>
     </li>
 </ul>
+
+<p align="center">
+    <img src="https://github.com/gianghogovap/gianghogovap/blob/output/github-contribution-grid-snake.svg"/>
+</p>
