@@ -29,7 +29,7 @@ This is the place where I opensource stuff and break things 🤣
 <a href="https://www.facebook.com/anhtam.272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gautamkrishnar" height="30" width="40"/></a>
 <a href="https://www.instagram.com/minhtam2702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40"/></a>
 
-<summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+<b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
 <ul>
     <li>
         <b>Object Oriented Programming</b>: 
