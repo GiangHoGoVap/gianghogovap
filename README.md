@@ -58,13 +58,15 @@ This is the place where I opensource stuff and break things 🤣
     </li>
 </ul>
 
-📈 &nbsp;**Github stats**
+📈 &nbsp;**GitHub stats**
 
 <div align="center">
 
 [![](https://github-readme-stats.vercel.app/api?username=gianghogovap&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/GiangHoGoVap)
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=gianghogovap&theme=material-palenight)](https://github.com/GiangHoGoVap)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=gianghogovap&layout=compact&theme=dark&bg_color=0A0A0A)](https://github.com/GiangHoGoVap)
 
 </div>
 
