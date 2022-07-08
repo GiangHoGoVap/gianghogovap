@@ -8,6 +8,7 @@
     <h3 align="right">Mahatma Gandhi</h3>
 </blockquote>
 
+![](https://komarev.com/ghpvc/?username=GiangHoGoVap&color=ff69b4&label=PROFILE+VIEWS)
 <br>
 This is the place where I opensource stuff and break things 🤣
 
