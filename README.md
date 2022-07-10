@@ -23,7 +23,7 @@ This is the place where I opensource stuff and break things 🤣
 
 - 💬 &nbsp;Interested in Web Development/Machine Learning/Data Science
 
-- 📫 &nbsp;How to reach me: <a href="https://minhtam27022001@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gautamkrishnar" height="30" width="40"/></a>
+- 📫 &nbsp;How to reach me: <a href="mailto:minhtam27022001@gmail.com?" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gianghogovap" height="30" width="40"/></a>
 
 - ⚡ &nbsp;Fun fact: I ❤️ 🏀 (You can meet me on Sat at Bach Khoa basketball court)
 
