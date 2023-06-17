@@ -12,7 +12,7 @@
 <br>
 This is the place where I opensource stuff and break things 🤣
 
-- 🔭 &nbsp;I’m currently working at Aureole Information Technology as an intern 👨‍💻
+- 🔭 &nbsp;I used to work at Aureole Information Technology as an intern 👨‍💻
 
 - 🌱 &nbsp;I’m currently learning
   <a href="https://angular.io" target="_blank"> <img align="center" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
